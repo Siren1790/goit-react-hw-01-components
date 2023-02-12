@@ -1,19 +1,20 @@
 .transaction-history {
-    border-collapse: collapse;
-    margin: auto;
-    width: 40%;
+  border-collapse: collapse;
+  margin: auto;
+  width: 40%;
 }
 
-td, th {
-    border: 1px solid #777;
-    padding: 0.5rem;
-    text-align: center;
+td,
+th {
+  border: 1px solid #777;
+  padding: 0.5rem;
+  text-align: center;
 }
 
 tbody tr:nth-child(odd) {
-    background: #eee;
+  background: #eee;
 }
 caption {
-    font-size: 2rem;
-    margin-bottom: 10px;
+  font-size: 2rem;
+  margin-bottom: 10px;
 }
